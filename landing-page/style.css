@@ -1,0 +1,14 @@
+.btn{
+    /* border: 1px solid black; */
+    color: blueviolet;
+    /* background-color: darkgray; */
+    border: 5px 10px;
+}
+.landing{
+    background-color: gray;
+    height: 800px;
+    /* width: 100vh; */
+  display: flex;
+    justify-content: center;
+
+}
